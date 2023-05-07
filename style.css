@@ -1,0 +1,30 @@
+button.btn.nav-link{
+    color: #777777;
+}
+
+button.btn.nav-link.active{
+    background-color:rgba(0, 225, 255, 0.8);
+    color: #000000;
+}
+
+button.btn.nav-link:hover
+{
+    background-color: rgba(0, 225, 255, 0.4);
+    color: #ffffff;
+}
+
+section h1{
+    color: rgba(0, 255, 255, 0.9);
+}
+
+section h2{
+    color: rgba(0, 225, 255, 0.9);
+}
+
+p{
+    color: #2bfd01;
+}
+
+.tab-pane a{
+    text-decoration: none;
+}
